@@ -41,7 +41,12 @@ This project is licensed under the **MIT** license.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Features
-Point separator for installation and usage instructions for readme file. Directory creator for when directory for images does not exist. Creates README in markdown text.
+- License choice
+- Contributions
+- Badges
+- Point separator for installation and usage instructions for readme file.
+- Directory creator for when directory for images does not exist.
+- Creates README in markdown text.
 
 ## Contributing
 none
