@@ -44,6 +44,7 @@ This project is licensed under the **MIT** license.
 - License choice
 - Contributions
 - Badges
+- Screenshot additions
 - Point separator for installation and usage instructions for readme file.
 - Directory creator for when directory for images does not exist.
 - Creates README in markdown text.
